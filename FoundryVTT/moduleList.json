@@ -1,0 +1,175 @@
+{
+  "activeModules": [
+    {
+      "id": "ambientdoors",
+      "title": "Ambient Doors",
+      "version": ""
+    },
+    {
+      "id": "babele",
+      "title": "Babele",
+      "version": ""
+    },
+    {
+      "id": "character-actions-list-5e",
+      "title": "Character Actions List dnd5e",
+      "version": ""
+    },
+    {
+      "id": "combat-enhancements",
+      "title": "Combat Enhancements",
+      "version": ""
+    },
+    {
+      "id": "combat-utility-belt",
+      "title": "Combat Utility Belt",
+      "version": ""
+    },
+    {
+      "id": "custom-fonts",
+      "title": "Custom Fonts",
+      "version": ""
+    },
+    {
+      "id": "dfreds-convenient-effects",
+      "title": "DFreds Convenient Effects",
+      "version": ""
+    },
+    {
+      "id": "dfreds-droppables",
+      "title": "DFreds Droppables",
+      "version": ""
+    },
+    {
+      "id": "dice-so-nice",
+      "title": "Dice So Nice!",
+      "version": ""
+    },
+    {
+      "id": "Dynamic-Effects-SRD",
+      "title": "Dynamic Active Effects SRD",
+      "version": ""
+    },
+    {
+      "id": "dae",
+      "title": "Dynamic effects using Active Effects",
+      "version": ""
+    },
+    {
+      "id": "easy-target",
+      "title": "Easy Target",
+      "version": ""
+    },
+    {
+      "id": "forien-quest-log",
+      "title": "Forien's Quest Log",
+      "version": ""
+    },
+    {
+      "id": "dnd5e_fr-FR",
+      "title": "fr-FR - DND5 System",
+      "version": ""
+    },
+    {
+      "id": "fr-core",
+      "title": "FR - Traduction du core",
+      "version": ""
+    },
+    {
+      "id": "fxmaster",
+      "title": "FXMaster",
+      "version": ""
+    },
+    {
+      "id": "healthEstimate",
+      "title": "Health Estimate",
+      "version": ""
+    },
+    {
+      "id": "lazymoney",
+      "title": "Lazy Money",
+      "version": ""
+    },
+    {
+      "id": "lib-wrapper",
+      "title": "libWrapper",
+      "version": "0"
+    },
+    {
+      "id": "midi-qol",
+      "title": "Midi QOL",
+      "version": ""
+    },
+    {
+      "id": "more-hooks-5e",
+      "title": "More Hooks D&D5e",
+      "version": ""
+    },
+    {
+      "id": "perfect-vision",
+      "title": "Perfect Vision",
+      "version": ""
+    },
+    {
+      "id": "pings",
+      "title": "Pings",
+      "version": ""
+    },
+    {
+      "id": "polyglot",
+      "title": "Polyglot",
+      "version": ""
+    },
+    {
+      "id": "scene-transitions",
+      "title": "Scene Transitions",
+      "version": ""
+    },
+    {
+      "id": "searchanywhere",
+      "title": "Search Anywhere",
+      "version": ""
+    },
+    {
+      "id": "settings-extender",
+      "title": "Settings Extender",
+      "version": ""
+    },
+    {
+      "id": "simple-dice-roller",
+      "title": "Simple Dice Roller",
+      "version": ""
+    },
+    {
+      "id": "socketlib",
+      "title": "socketlib",
+      "version": ""
+    },
+    {
+      "id": "srd-heros-et-dragons",
+      "title": "srd-heros-et-dragons",
+      "version": ""
+    },
+    {
+      "id": "stairways",
+      "title": "Stairways (Teleporter)",
+      "version": ""
+    },
+    {
+      "id": "tidy-ui_game-settings",
+      "title": "Tidy UI - Game Settings",
+      "version": ""
+    },
+    {
+      "id": "token-action-hud",
+      "title": "Token Action HUD",
+      "version": ""
+    },
+    {
+      "id": "dd-import",
+      "title": "Universal Battlemap Importer",
+      "version": ""
+    }
+  ],
+  "inactiveModules": []
+}
