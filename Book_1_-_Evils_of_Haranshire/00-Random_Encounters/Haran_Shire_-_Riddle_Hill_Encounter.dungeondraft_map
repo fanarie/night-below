@@ -268,8 +268,8 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 4493.2, 2334.69 )",
-			"camera_zoom": 5.333333,
+			"camera_position": "Vector2( 3916.13, 3130.42 )",
+			"camera_zoom": 3.2,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -391,9 +391,9 @@
 			},
 			"scatter_library_memory": null,
 			"path_library_memory": {
-				"scroll": 674.486328,
+				"scroll": 10867.5,
 				"selected": [
-					"res://packs/FA30DD02/textures/paths/Shadow_Paths/ShadowPath_Half_B_60%.webp"
+					"res://packs/FA30DD04/textures/paths/Overlays_and_Effects_Paths/Moss_Paths/Moss_Green_A1_Path.webp"
 				],
 				"search_strictness": 0.5
 			},
@@ -404,7 +404,7 @@
 		"format": 3,
 		"width": 30,
 		"height": 20,
-		"next_node_id": "ef",
+		"next_node_id": "f8",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -424,7 +424,7 @@
 			"0": {
 				"label": "Ground",
 				"environment": {
-					"baked_lighting": false,
+					"baked_lighting": true,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -2391,9 +2391,88 @@
 						"block_light": false,
 						"loop": false,
 						"node_id": "5b"
+					},
+					{
+						"position": "Vector2( 3700.13, 3682.42 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( -140.8, 100.8, -70.3999, -65.6001, -182.4, -48, -254.4, 32, -299.2, 156.8, -275.2, 276.8, -204.8, 374.4, -83.2, 318.4, 16, 172.8, -17.5999, 16, -60.7998, 116.8, -60.7998, 116.8 )",
+						"smoothness": 1,
+						"texture": "res://packs/FA30DD02/textures/paths/Shadow_Paths/ShadowPath_Half_B_60%.webp",
+						"width": 512,
+						"layer": 100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": false,
+						"shrink": false,
+						"block_light": false,
+						"loop": false,
+						"node_id": "f1"
+					},
+					{
+						"position": "Vector2( 3576.93, 3672.82 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, -38.4001, 14.4001, -91.2, 27.2002, -131.2, 56, -152, 81.6001, -179.2, 105.6, -200, 129.6, -200, 144 )",
+						"smoothness": 1,
+						"texture": "res://packs/FA30DD04/textures/paths/Overlays_and_Effects_Paths/Moss_Paths/Moss_Green_A1_Path.webp",
+						"width": 256,
+						"layer": 200,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": false,
+						"shrink": false,
+						"block_light": false,
+						"loop": false,
+						"node_id": "f5"
+					},
+					{
+						"position": "Vector2( 3530.53, 3839.22 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, -28.7998, 35.2, -33.5999, 80, -43.1997, 120, -51.1997, 136, -48, 155.2, -27.1997, 179.2, 8, 195.2, 35.2002, 196.8, 56, 185.6, 84.8003, 163.2, 84.8003, 163.2 )",
+						"smoothness": 1,
+						"texture": "res://packs/FA30DD04/textures/paths/Overlays_and_Effects_Paths/Moss_Paths/Moss_Green_A1_Path.webp",
+						"width": 256,
+						"layer": 200,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": false,
+						"shrink": false,
+						"block_light": false,
+						"loop": false,
+						"node_id": "f6"
+					},
+					{
+						"position": "Vector2( 3671.33, 3677.62 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 14.3999, 36.7998, 9.59985, 78.3999, 16, 105.6, 30.3999, 124.8, 32, 156.8, 33.5999, 185.6, 22.3999, 225.6, 4.7998, 257.6, 4.7998, 257.6 )",
+						"smoothness": 1,
+						"texture": "res://packs/FA30DD04/textures/paths/Overlays_and_Effects_Paths/Moss_Paths/Moss_Green_A1_Path.webp",
+						"width": 256,
+						"layer": 200,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": false,
+						"shrink": false,
+						"block_light": false,
+						"loop": false,
+						"node_id": "f7"
 					}
 				],
 				"objects": [
+					{
+						"position": "Vector2( 3559.87, 3844.02 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD05/textures/objects/Natural_Decor/Rocks/Boulders/Boulder_Stone_Earthy_B18_2x2.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": true,
+						"node_id": "ef"
+					},
 					{
 						"position": "Vector2( 562.534, 4942.69 )",
 						"rotation": -1.047198,
