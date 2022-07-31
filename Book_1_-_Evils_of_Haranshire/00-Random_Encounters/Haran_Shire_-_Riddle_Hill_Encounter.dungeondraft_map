@@ -268,8 +268,8 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 3916.13, 3130.42 )",
-			"camera_zoom": 3.2,
+			"camera_position": "Vector2( 2399.59, 2958.65 )",
+			"camera_zoom": 4,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -370,9 +370,26 @@
 				]
 			},
 			"object_tags_memory": {
-				"set": 0,
+				"set": 9,
 				"tags": [
-					"[FA] Tree Shadows"
+					"[FA] Bushes",
+					"[FA] Crops [LG]",
+					"[FA] Flowers",
+					"[FA] Flowers - Large",
+					"[FA] Lichen",
+					"[FA] Mushrooms Large",
+					"[FA] Mushrooms Small",
+					"[FA] Plants",
+					"[FA] Plants - Cacti",
+					"[FA] Plants - Large",
+					"[FA] Plants - Long Grass",
+					"[FA] Plants - Water",
+					"[FA] Stumps",
+					"[FA] Tree Branches",
+					"[FA] Tree Shadows",
+					"[FA] Tree Shadows [LG]",
+					"[FA] Trees",
+					"[FA] Vines"
 				]
 			},
 			"scatter_tags_memory": {
@@ -383,9 +400,9 @@
 			},
 			"object_library_memory": {
 				"mode": "tags",
-				"scroll": 0,
+				"scroll": 6598.730936,
 				"selected": [
-					"res://packs/FA30DD05/textures/objects/Flora/Trees/Tree_Shadows/Tree_Shadow_D8_3x3.webp"
+					"res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_F5_2x2.webp"
 				],
 				"search_strictness": 0.5
 			},
@@ -404,7 +421,7 @@
 		"format": 3,
 		"width": 30,
 		"height": 20,
-		"next_node_id": "f8",
+		"next_node_id": "10e",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -424,7 +441,7 @@
 			"0": {
 				"label": "Ground",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -2463,6 +2480,105 @@
 				],
 				"objects": [
 					{
+						"position": "Vector2( 3576.03, 3132.81 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD99/textures/objects/_LG_Natural_Decor/_LG_Fallen_Leaves/Fallen_Leaves_Green_A1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "100"
+					},
+					{
+						"position": "Vector2( 3525.36, 2935.48 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD99/textures/objects/_LG_Natural_Decor/_LG_Fallen_Leaves/Fallen_Leaves_Green_A1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "ff"
+					},
+					{
+						"position": "Vector2( 3312.03, 3087.48 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD99/textures/objects/_LG_Natural_Decor/_LG_Fallen_Leaves/Fallen_Leaves_Green_A1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "fe"
+					},
+					{
+						"position": "Vector2( 282.692, 4826.15 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD99/textures/objects/_LG_Natural_Decor/_LG_Fallen_Leaves/Fallen_Leaves_Green_A3.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "fd"
+					},
+					{
+						"position": "Vector2( 277.359, 1170.15 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD99/textures/objects/_LG_Natural_Decor/_LG_Fallen_Leaves/Fallen_Leaves_Green_A3.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "fc"
+					},
+					{
+						"position": "Vector2( 634.692, 535.481 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD99/textures/objects/_LG_Natural_Decor/_LG_Fallen_Leaves/Fallen_Leaves_Green_A3.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "fb"
+					},
+					{
+						"position": "Vector2( 3186.69, 826.148 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD99/textures/objects/_LG_Natural_Decor/_LG_Fallen_Leaves/Fallen_Leaves_Green_A3.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "fa"
+					},
+					{
+						"position": "Vector2( 3797.36, 623.481 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD99/textures/objects/_LG_Natural_Decor/_LG_Fallen_Leaves/Fallen_Leaves_Green_A3.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "f9"
+					},
+					{
+						"position": "Vector2( 3541.36, 1063.48 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD99/textures/objects/_LG_Natural_Decor/_LG_Fallen_Leaves/Fallen_Leaves_Green_A3.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "f8"
+					},
+					{
 						"position": "Vector2( 3559.87, 3844.02 )",
 						"rotation": 0.523599,
 						"scale": "Vector2( 1, 1 )",
@@ -3892,6 +4008,149 @@
 						"shadow": false,
 						"block_light": true,
 						"node_id": "d2"
+					},
+					{
+						"position": "Vector2( 793.893, 1241.48 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_D2_1x1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "101"
+					},
+					{
+						"position": "Vector2( 65.8926, 2997.48 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_D2_1x1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "102"
+					},
+					{
+						"position": "Vector2( 1559.89, 3615.48 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_D2_1x1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "103"
+					},
+					{
+						"position": "Vector2( 2465.89, 3599.48 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_D1_1x1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "104"
+					},
+					{
+						"position": "Vector2( 1921.89, 2579.48 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_D7_2x2.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "105"
+					},
+					{
+						"position": "Vector2( 1783.09, 1852.28 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_F5_2x2.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "106"
+					},
+					{
+						"position": "Vector2( 6285.89, 3869.48 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_D7_2x2.webp",
+						"layer": 200,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "107"
+					},
+					{
+						"position": "Vector2( 6463.89, 2871.48 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_D7_2x2.webp",
+						"layer": 200,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "108"
+					},
+					{
+						"position": "Vector2( 6705.89, 4631.48 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_D7_2x2.webp",
+						"layer": 200,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "109"
+					},
+					{
+						"position": "Vector2( 6677.89, 1771.48 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_D4_2x2.webp",
+						"layer": 200,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "10a"
+					},
+					{
+						"position": "Vector2( 7073.89, 951.481 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_D3_1x1.webp",
+						"layer": 200,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "10b"
+					},
+					{
+						"position": "Vector2( 6708.56, 1268.15 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD02/textures/objects/Flora/Bushes/Bush_Yellow_C5_2x2.webp",
+						"layer": 200,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "10c"
+					},
+					{
+						"position": "Vector2( 7384.56, 280.147 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Flora/Bushes/Bush_Multicolor1_F5_2x2.webp",
+						"layer": 200,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "10d"
 					}
 				],
 				"lights": [
