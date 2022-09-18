@@ -383,9 +383,9 @@
 			},
 			"object_library_memory": {
 				"mode": "tags",
-				"scroll": 16173.125,
+				"scroll": 0,
 				"selected": [
-					"res://packs/FA30DD15/textures/objects/Rubble/Rubble_Piles/Stone/Rubble_Pile_Stone_Volcanic_E14_1x1.webp"
+
 				],
 				"search_strictness": 0.5
 			},
